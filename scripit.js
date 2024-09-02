@@ -68,7 +68,7 @@ function respostaSelecionada (opcaoSelecionada){
 } ;
 
 function mostraResultado (){
-    caixaPerguntas.textContent = "Por meio de suas escolhas, suas características são:" ;
+    caixaPerguntas.textContent = "Suas escolhas se remetem a estas características:" ;
     textoResultado.textContent = historiaFinal ;
     caixaAlternativas.textContent = "" ;
 }
