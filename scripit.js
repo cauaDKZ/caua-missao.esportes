@@ -30,7 +30,7 @@ const perguntas = [
                 afirmacao: "A desvantagem em incentivar a prática esportiva na escola podem incluir custos adicionais e desmotivar estudantes que não gostam de esportes."
             }
         ]
-    },
+    }
 ];
 
 let pergAtual = 0;
